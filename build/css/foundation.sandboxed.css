@@ -1,5 +1,5 @@
 .foundation  meta.foundation-version {
-  font-family: "/5.4.5-radekalized/";}
+  font-family: "/{{VERSION}}/";}
 .foundation  meta.foundation-mq-small {
   font-family: "/only screen/";
   width: 0em;}

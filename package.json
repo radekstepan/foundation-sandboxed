@@ -1,14 +1,16 @@
 {
-  "name": "zurb-foundation",
+  "name": "foundation",
   "version": "5.4.5-radekalized",
   "devDependencies": {
     "grunt": "~0.4.4",
     "grunt-contrib-clean": "~0.6.0",
     "grunt-contrib-sass": "~0.8.1",
     "grunt-css-prefix": "^0.2.3",
+    "grunt-css2js": "^0.2.4",
     "grunt-csso": "^0.6.3",
     "grunt-sandbox-css": "^0.5.0",
-    "grunt-string-replace": "~1.0.0"
+    "grunt-string-replace": "~1.0.0",
+    "grunt-wrap": "^0.3.0"
   },
   "repository": {
     "type": "git",

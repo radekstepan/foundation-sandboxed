@@ -14,3 +14,4 @@ $ grunt build
 - [x] No `max-width` on grid rows.
 - [x] A `foundation` class prefix/sandboxing on all selectors.
 - [x] Minimize all CSS files.
+- [x] Package all CSS as CommonJS modules that can be required in the browser.
