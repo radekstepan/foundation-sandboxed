@@ -29,6 +29,17 @@ module.exports = function(grunt) {
           ]
         }
       }
+    },
+
+    'sandbox_css': {
+      'foundation': {
+        'options': {
+          'prefix': '.foundation '
+        },
+        'files': {
+          'build/foundation.sandboxed.css': [ 'build/foundation.css' ]
+        }
+      }
     }
 
   });
@@ -36,7 +47,9 @@ module.exports = function(grunt) {
   grunt.loadNpmTasks('grunt-contrib-clean');
   grunt.loadNpmTasks('grunt-contrib-sass');
   grunt.loadNpmTasks('grunt-string-replace');
+  grunt.loadNpmTasks('grunt-css-prefix');
+  grunt.loadNpmTasks('grunt-sandbox-css');
 
-  grunt.registerTask('default', [ 'clean', 'sass', 'string-replace' ]);
+  grunt.registerTask('default', [ 'clean', 'sass', 'string-replace', 'sandbox_css' ]);
 
 };

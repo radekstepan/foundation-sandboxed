@@ -1,6 +1,6 @@
 #[Foundation](http://foundation.zurb.com)
 
-Prefixed Foundation CSS framework.
+Custom Foundation CSS framework build.
 
 ```bash
 $ gem install bundler
@@ -12,4 +12,4 @@ $ grunt build
 ##Changes
 
 - [x] No `max-width` on grid rows.
-- [ ] A `foundation` class prefix on all rules.
+- [x] A `foundation` class prefix/sandboxing on all selectors.
