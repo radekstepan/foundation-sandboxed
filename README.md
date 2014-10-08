@@ -13,3 +13,4 @@ $ grunt build
 
 - [x] No `max-width` on grid rows.
 - [x] A `foundation` class prefix/sandboxing on all selectors.
+- [x] Minimize all CSS files.
