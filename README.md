@@ -11,5 +11,5 @@ $ grunt build
 
 ##Changes
 
-[ ] A `foundation` class prefix on all rules
-[ ] No `max-width` on grid rows
+- [x] No `max-width` on grid rows.
+- [ ] A `foundation` class prefix on all rules.
