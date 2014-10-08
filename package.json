@@ -1,11 +1,10 @@
 {
   "name": "zurb-foundation",
-  "version": "5.4.5",
+  "version": "5.4.5-radekalized",
   "devDependencies": {
     "grunt": "~0.4.4",
     "grunt-contrib-clean": "~0.6.0",
     "grunt-contrib-sass": "~0.8.1",
-    "grunt-contrib-copy": "~0.6.0",
     "grunt-string-replace": "~1.0.0"
   },
   "repository" : {
