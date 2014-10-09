@@ -17,9 +17,6 @@
     "url": "http://github.com/radekstepan/foundation-sandboxed.git"
   },
   "license": "MIT",
-  "publishConfig": {
-    "registry":"http://registry.npmjs.org/"
-  },
   "keywords": [
     "foundation",
     "css",
