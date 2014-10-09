@@ -1,4 +1,4 @@
-#[Foundation](http://foundation.zurb.com)
+#[Foundation Sandboxed](http://foundation.zurb.com)
 
 Custom Foundation CSS framework build.
 
@@ -6,7 +6,7 @@ Custom Foundation CSS framework build.
 $ gem install bundler
 $ bundle install
 $ npm install
-$ grunt build
+$ grunt
 ```
 
 ##Changes

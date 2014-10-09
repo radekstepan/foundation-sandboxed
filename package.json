@@ -1,6 +1,6 @@
 {
-  "name": "foundation",
-  "version": "5.4.5-radekalized",
+  "name": "foundation-sandboxed",
+  "version": "5.4.5-sandboxed",
   "devDependencies": {
     "grunt": "~0.4.4",
     "grunt-contrib-clean": "~0.6.0",
@@ -14,12 +14,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/radekstepan/foundation"
+    "url": "https://github.com/radekstepan/foundation-sandboxed"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/radekstepan/foundation/blob/master/LICENSE"
+      "url": "https://github.com/radekstepan/foundation-sandboxed/blob/master/LICENSE"
     }
   ]
 }
