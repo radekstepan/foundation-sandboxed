@@ -14,15 +14,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/radekstepan/foundation-sandboxed"
+    "url": "http://github.com/radekstepan/foundation-sandboxed.git"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "https://github.com/radekstepan/foundation-sandboxed/blob/master/LICENSE"
-    }
-  ],
+  "license": "MIT",
   "publishConfig": {
     "registry":"http://registry.npmjs.org/"
-  }
+  },
+  "keywords": [
+    "foundation",
+    "css",
+    "prefix",
+    "sandbox"
+  ]
 }
