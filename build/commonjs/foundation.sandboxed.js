@@ -3857,6 +3857,7 @@ module.exports =
 ".foundation  .switch.round label:after {\n" +
 "      border-radius: 2rem;}\n" +
 ".foundation  table {\n" +
+"  width: 100%;\n" +
 "  background: white;\n" +
 "  margin-bottom: 1.25rem;\n" +
 "  border: solid 1px #dddddd;\n" +

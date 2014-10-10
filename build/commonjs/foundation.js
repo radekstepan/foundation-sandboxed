@@ -4237,6 +4237,7 @@ module.exports =
 "      border-radius: 2rem; }\n" +
 "\n" +
 "table {\n" +
+"  width: 100%;\n" +
 "  background: white;\n" +
 "  margin-bottom: 1.25rem;\n" +
 "  border: solid 1px #dddddd;\n" +

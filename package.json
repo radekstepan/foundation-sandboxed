@@ -1,6 +1,6 @@
 {
   "name": "foundation-sandboxed",
-  "version": "5.4.5-sandboxed",
+  "version": "5.4.5-sandboxed.1",
   "devDependencies": {
     "grunt": "~0.4.4",
     "grunt-contrib-clean": "~0.6.0",

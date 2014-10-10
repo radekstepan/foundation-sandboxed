@@ -4232,6 +4232,7 @@ dialog {
       border-radius: 2rem; }
 
 table {
+  width: 100%;
   background: white;
   margin-bottom: 1.25rem;
   border: solid 1px #dddddd;
